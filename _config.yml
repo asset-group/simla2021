@@ -1,6 +1,6 @@
 title: Security in Machine Learning and its Applications (SiMLA 2021)
 url: ""
-baseurl: "simla2021"
+baseurl: "/simla2021"
 
 markdown: kramdown
 # ins_logo: "images/simla-logo.png"
