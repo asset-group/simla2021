@@ -56,7 +56,7 @@ Authors should consult Springer's authors' guidelines and use their proceedings 
 
 **EasyChair System will be used for paper submission.**
 
-A submission date will be added in the future.
+A submission link will be added in the future.
 
 <!-- https://easychair.org/conferences/?conf=simla2020 -->
 
