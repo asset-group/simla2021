@@ -56,7 +56,7 @@ Authors should consult Springer's authors' guidelines and use their proceedings 
 
 **EasyChair System will be used for paper submission.**
 
-Please submit your paper via the following link EasyChair System.
+A submission date will be added in the future.
 
 <!-- https://easychair.org/conferences/?conf=simla2020 -->
 
@@ -69,6 +69,6 @@ Please submit your paper via the following link EasyChair System.
 ## Program Committee
 
 
-[Dr John Doe](https://www.ebay.com/itm/Witty-Yetis-Dehydrated-Water-16oz-Can-NEW-Formula-Essential-Camping/333200896831) | University of Atlantis  | 
+#### To be decided 
 
 
