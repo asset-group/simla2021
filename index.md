@@ -39,7 +39,7 @@ Topics of interest include, but not limited, to followings:
 
    - Adversarial Machine Learning
    - Robustness Analysis of Machine Learning Algoritms
-   - Detection and Defense to Training Data set Poison attack
+   - Detection and Defense to Training Data set Poison attack (including backdoor attacks)
    - Privacy Preserving Machine Learning
    - Watermarking of Machine Learning Algorithms and Systems
    - Attack and defense of face recognition systems
