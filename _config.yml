@@ -1,0 +1,21 @@
+title: Security in Machine Learning and its Applications (SiMLA 2021)
+url: "asset-group.github.io"
+baseurl: "/simla"
+
+markdown: kramdown
+# ins_logo: "images/simla-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "http://sulab-sever.u-aizu.ac.jp/ACNS2021/a"
+footer_text: "SiMLA 2021 (Co-located with ACNS2021)"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "ACNS 2021"
+   link: "http://sulab-sever.u-aizu.ac.jp/ACNS2021/"
+
