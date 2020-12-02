@@ -54,9 +54,9 @@ Topics of interest include, but not limited, to followings:
 
 Authors are welcome to submit their papers in following two forms:
 
-   - **Full papers** that present relatively mature research results related to security issues of machine learning algorithms, systems, and applications. The paper could be an attack, defense, security analysis, surveys, etc. The submissions for this type must follow the original LNCS format (see [LNCS format](http://www.springeronline.com/lncs) ) with a page limit of 18 pages (including references) for the main part (reviewers are not required to read beyond this limit) and 25 pages in total.
+   - **Full papers** that present relatively mature research results related to security issues of machine learning algorithms, systems, and applications. The paper could be an attack, defense, security analysis, surveys, etc. The submissions for this type must follow the original LNCS format (see [LNCS format](http://www.springeronline.com/lncs)) with a page limit of 18 pages (including references) for the main part (reviewers are not required to read beyond this limit) and 25 pages in total.
 
-   - **Short papers** that describe an on-going work and bring some new insights and inspiring ideas related to security issues of meaching learning algorithms, systems, and applications. Short papers will follow the same LNCS format as full paper (see [LNCS format] (http://www.springeronline.com/lncs) ), but with a page limit of 9 pages (including references).
+   - **Short papers** that describe an on-going work and bring some new insights and inspiring ideas related to security issues of meaching learning algorithms, systems, and applications. Short papers will follow the same LNCS format as full paper (see [LNCS format](http://www.springeronline.com/lncs)), but with a page limit of 9 pages (including references).
 
 The submissions must be anonymous, with no author names, affiliations, acknowledgement or obvious references. Once accepted, the papers will appear in the formal proceedings. Authors of accepted papers must guarantee that their paper will be presented at the conference and must make their paper available online. There will be a best paper award.
 
