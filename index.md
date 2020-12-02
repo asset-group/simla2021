@@ -74,7 +74,7 @@ A submission link will be added in the future.
 
 
 [Sudipta Chattopadhyay](https://asset-group.github.io/) | Singapore University of Technology and Design  | Workshop Chair |
-[Sakshi Udeshi](https://asset-group.github.io/) | Singapore University of Technology and Design  | Web Chair |
+[Sakshi Udeshi](http://sakshiudeshi.github.io/) | Singapore University of Technology and Design  | Web Chair |
 
 ## Program Committee
 
