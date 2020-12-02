@@ -1,6 +1,6 @@
 title: Security in Machine Learning and its Applications (SiMLA 2021)
-url: "asset-group.github.io"
-baseurl: "/simla"
+url: ""
+baseurl: ""
 
 markdown: kramdown
 # ins_logo: "images/simla-logo.png"
