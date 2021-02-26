@@ -88,6 +88,4 @@ A submission link will be added in the future.
 [Kehuan Zhang](https://staff.ie.cuhk.edu.hk/~khzhang/) | The Chinese University of Hong Kong | 
 
 
-#### To be decided 
-
 
