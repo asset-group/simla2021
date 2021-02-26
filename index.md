@@ -79,6 +79,15 @@ A submission link will be added in the future.
 ## Program Committee
 
 
+[Chris Poskitt](https://cposkitt.github.io/) |  Singapore Management University  |
+[Shuhao Zhang](https://shuhaozhangtony.github.io/) | Singapore University of Technology and Design  | 
+[Wenrui Diao](https://diaowenrui.github.io/) | Shandong University |
+[Jingyi Wang](https://wang-jingyi.github.io/) | Zhejiang University | 
+[Ezekiel Soremekun](https://scholar.google.com.sg/citations?user=r8T1-yoAAAAJ) | SnT, University of Luxembourg | 
+[Shuang Liu](https://www.linkedin.com/in/shuang-liu-a5a4172a) | Tianjin University | 
+[Kehuan Zhang](https://staff.ie.cuhk.edu.hk/~khzhang/) | The Chinese University of Hong Kong | 
+
+
 #### To be decided 
 
 

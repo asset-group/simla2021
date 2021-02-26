@@ -1,4 +1,4 @@
-I"´<!-- # Security in Machine Learning and its Applications (SiMLA 2020) -->
+I"Š<!-- # Security in Machine Learning and its Applications (SiMLA 2020) -->
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 <!-- ![](images/simla-logo.png =180x) -->
@@ -16,9 +16,19 @@
 
 <h2 id="workshop-background">Workshop Background</h2>
 
-<p>As the development of computing hardware, algorithms, and more importantly, availability of large volume of data, machine learning technologies have become a increasingly popular. Practical systems have been deployed in various domains, like face recognition, automatic video monitoring, and even auxiliary driving. However, the security implications of machine learning algorithms and systems are still unclear. For example, people still lack deep understanding on adversarial machine learning, one of the unique vulnerability of machine learning systems, and are unable to evaluate the robustness of those machine learning algorithms effectively. The other prominent problem is privacy concerns when applying machine learning algorithms, and as general public are becoming more concerned about their own privacy, more works are definitely desired towards privacy preserving machine learning.</p>
+<p>As the development of computing hardware, algorithms, and more importantly, availability of large volume of data grows, 
+machine learning technologies have become increasingly popular. Practical systems have been deployed in various domains, 
+like face recognition, automatic video monitoring, and even auxiliary driving. However, the security implications of 
+machine learning algorithms and systems are still unclear. For example, developers still lack deep understanding on 
+adversarial machine learning, one of the unique vulnerability of machine learning systems, and are unable to evaluate the 
+robustness of those machine learning algorithms effectively. The other prominent problem is privacy concerns when applying 
+machine learning algorithms, and as general public are becoming more concerned about their own privacy, more works are 
+definitely desired towards privacy preserving machine learning systems.</p>
 
-<p>Motivated by this situation, this workshop solicits original contributions on the security and privacy problems of machine learning algorithm and systems, including adversarial learning, algorithm robustness analysis, privacy preserving machine learning, etc. We hope this workshop can bring researchers together to exchange ideas on edge-cutting technologies and brainstorm solutions for urgent problems derived from practical applications.</p>
+<p>Motivated by this situation, this workshop solicits original contributions on the security and privacy problems of machine 
+learning algorithm and systems, including adversarial learning, algorithm robustness analysis, privacy preserving machine 
+learning, etc. We hope this workshop can bring researchers together to exchange ideas on cutting-edge technologies and 
+brainstorm solutions for urgent problems derived from practical applications.</p>
 
 <h2 id="topics">Topics</h2>
 
@@ -27,14 +37,14 @@
 <ul>
   <li>Adversarial Machine Learning</li>
   <li>Robustness Analysis of Machine Learning Algoritms</li>
-  <li>Detection and Defense to Training Data set Poison attack</li>
+  <li>Detection and Defense to Training Data set Poison attack (including backdoor attacks)</li>
   <li>Privacy Preserving Machine Learning</li>
   <li>Watermarking of Machine Learning Algorithms and Systems</li>
   <li>Attack and defense of face recognition systems</li>
   <li>Attacks and defense of voice recognition and voice commanded systems</li>
   <li>Attacks and defense of machine learning algorithms in program analysis</li>
   <li>Malware identification and analysis</li>
-  <li>Spam and phshing email detection</li>
+  <li>Spam and phishing email detection</li>
   <li>Vulnerability analysis</li>
 </ul>
 
@@ -44,10 +54,10 @@
 
 <ul>
   <li>
-    <p><strong>Full papers</strong> that present relatively mature research results related to security issues of machine learning algorithms, systems, and applications. The paper could be attack, defense, security analysis, surveys, etc. The submissions for this type must follow the original LNCS format (see http://www.springeronline.com/lncs) with a page limit of 18 pages (including references) for the main part (reviewers are not required to read beyond this limit) and 25 pages in total.</p>
+    <p><strong>Full papers</strong> that present relatively mature research results related to security issues of machine learning algorithms, systems, and applications. The paper could be an attack, defense, security analysis, surveys, etc. The submissions for this type must follow the original LNCS format (see <a href="http://www.springeronline.com/lncs">LNCS format</a>) with a page limit of 18 pages (including references) for the main part (reviewers are not required to read beyond this limit) and 25 pages in total.</p>
   </li>
   <li>
-    <p><strong>Short papers</strong> that describe an on-going work and bring some new insights and inspiring ideas related to security issues of meaching learning algorithms, systems, and applications. Short papers will follow the same LNCS format as full paper (http://www.springeronline.com/lncs), but with a page limit of 9 pages (including references).</p>
+    <p><strong>Short papers</strong> that describe an on-going work and bring some new insights and inspiring ideas related to security issues of meaching learning algorithms, systems, and applications. Short papers will follow the same LNCS format as full paper (see <a href="http://www.springeronline.com/lncs">LNCS format</a>), but with a page limit of 9 pages (including references).</p>
   </li>
 </ul>
 
@@ -61,7 +71,7 @@
 
 <p><strong>EasyChair System will be used for paper submission.</strong></p>
 
-<p>A submission date will be added in the future.</p>
+<p>A submission link will be added in the future.</p>
 
 <!-- https://easychair.org/conferences/?conf=simla2020 -->
 
@@ -75,7 +85,7 @@
       <td>Workshop Chair</td>
     </tr>
     <tr>
-      <td><a href="https://asset-group.github.io/">Sakshi Udeshi</a></td>
+      <td><a href="http://sakshiudeshi.github.io/">Sakshi Udeshi</a></td>
       <td>Singapore University of Technology and Design</td>
       <td>Web Chair</td>
     </tr>
@@ -83,6 +93,19 @@
 </table>
 
 <h2 id="program-committee">Program Committee</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://asset-group.github.io/">Sudipta Chattopadhyay</a></td>
+      <td>Singapore University of Technology and Design</td>
+    </tr>
+    <tr>
+      <td><a href="http://sakshiudeshi.github.io/">Sakshi Udeshi</a></td>
+      <td>Singapore University of Technology and Design</td>
+    </tr>
+  </tbody>
+</table>
 
 <h4 id="to-be-decided">To be decided</h4>
 
