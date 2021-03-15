@@ -16,6 +16,8 @@ layout: default
 ## Important Dates
 
 - Submission deadline: March 25, 2021 (Anywhere on Earth)
+- Acceptance Notification: May 8, 2021
+- Camera-ready deadline: May 20, 2021 (Anywhere on Earth)
 
 ## Workshop Background
 
