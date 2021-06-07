@@ -103,6 +103,8 @@ Japan (UTC+9) | Singapore <br> (UTC +8) |  CEST (UTC+2) |  UTC | **Agenda** | **
 
 <span style="color:red">* Time in US is on June 24</span>.
 
+[Download Program](https://drive.google.com/file/d/1JVc_6l9B0CU6ecHmflreKw2RIe89qxmv/view?usp=sharing)
+
 
 
 
