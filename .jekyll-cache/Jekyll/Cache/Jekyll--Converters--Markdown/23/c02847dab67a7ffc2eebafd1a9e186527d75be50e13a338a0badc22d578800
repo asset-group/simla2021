@@ -1,4 +1,4 @@
-I"�<!-- # Security in Machine Learning and its Applications (SiMLA 2020) -->
+I"&<!-- # Security in Machine Learning and its Applications (SiMLA 2020) -->
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 <!-- ![](images/simla-logo.png =180x) -->
@@ -128,5 +128,23 @@ brainstorm solutions for urgent problems derived from practical applications.</p
     </tr>
   </tbody>
 </table>
+
+<h2 id="program">Program</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Time Table</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Japan (UTC+9) | Singapore <br /> (UTC +8) |  CEST (UTC+2) |  UTC | <strong>Agenda</strong> | <strong>Chair</strong> | <strong>Details</strong>
+15:20 | 14:20 | 8:20 | 6:20 | Opening | Sudipta |
+15:30 | 14:30 | 8:30 | 6:30 |  Invited Talk |   Sudipta | Speaker Name:<br /><strong>Dr. Mike Papadakis</strong><br /><br /> Affiliation:<br />SnT, University of Luxembourg <br /><br /> Title:<br />Adversarial Attacks in ML-Enabled Systems”
+15:20 | 14:20 | 8:20 | 6:20 | Break | -
+16:45 | 15:45 9:45  7:45  Paper (30minx2)   Ezekiel Soremekun, SnT, University of Luxembourg   “(1) Towards Demystifying Adversarial Robustness of Binarized Neural Networks 
+(2) Kryptonite: An Adversarial Attack using Regional Focus 
+“</p>
 
 :ET

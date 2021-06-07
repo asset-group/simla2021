@@ -1,58 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Security in Machine Learning and its Applications (SiMLA 2021)</title>
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="keywords" content="blog, accent, , Security in Machine Learning and its Applications (SiMLA 2021), jekyll">
-    <meta name="author" content="">
-    
-    
-    
-    <meta name="description" content="">
-    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
-    <link rel="alternate" type="application/rss+xml" title="Security in Machine Learning and its Applications (SiMLA 2021) RSS" href="/feed.xml" />
-    <link rel="stylesheet" href="/simla2021/css/main.css">
-    
-    
-    <!-- Facebook Open Graph -->
-    <meta name="og:description" content="">
-    <meta name="og:title" content="Security in Machine Learning and its Applications (SiMLA 2021)">
-    <meta name="og:url" content="http://localhost:4000/simla2021/">
-    <meta name="og:type" content="article">
-    
-    
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Security in Machine Learning and its Applications (SiMLA 2021)">
-    <meta name="twitter:description" content="">
-    <meta name="twitter:url" content="http://localhost:4000/simla2021/">
-    
-        <meta name="twitter:image" content="">
-    
-</head>
-<body>
-    <div class="wrapper">
-        <div class="navbar container">
-            
-            <a id="author-name" class="alignable pull-left" href="/simla2021">Security in Machine Learning and its Applications (SiMLA 2021)</a>
-            <ul id="navlist" class="alignable pull-right navbar-ul">
-                
-                    
-                        <li class="alignable pull-left nav-list"><a href="http://sulab-sever.u-aizu.ac.jp/ACNS2021/">ACNS 2021</a>
-                    
-                    
-                        </li>
-                
-            </ul>
-        </div>
-        <div style="clear:both"></div>
-        <hr>
-        
-            <div class="container content">
-        
-                <!-- # Security in Machine Learning and its Applications (SiMLA 2020) -->
+I"o<!-- # Security in Machine Learning and its Applications (SiMLA 2020) -->
 
 <!-- <img class="profile-picture" src="sherlock.jpg"> -->
 <!-- ![](images/simla-logo.png =180x) -->
@@ -199,71 +145,30 @@ brainstorm solutions for urgent problems derived from practical applications.</p
       <td>Japan (UTC+9)</td>
       <td>Singapore <br /> (UTC +8)</td>
       <td>CEST (UTC+2)</td>
-      <td>UTC</td>
-      <td><strong>Agenda</strong></td>
-      <td><strong>Chair</strong></td>
-      <td><strong>Details</strong></td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
     </tr>
     <tr>
-      <td>15:20</td>
-      <td>14:20</td>
-      <td>8:20</td>
-      <td>6:20</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>Agenda</td>
+      <td>Chair</td>
+      <td>Details</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+      <td>UTC</td>
       <td>Opening</td>
       <td>Sudipta</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>15:30</td>
-      <td>14:30</td>
-      <td>8:30</td>
-      <td>6:30</td>
-      <td>Invited Talk</td>
-      <td>Sudipta</td>
-      <td>Speaker Name:<br /><a href="https://sites.google.com/site/mikepapadakis/"><strong>Dr. Mike Papadakis</strong></a><br /><br /> Affiliation:<br />SnT, University of Luxembourg <br /><br /> Title:<br />Adversarial Attacks in ML-Enabled Systems”</td>
-    </tr>
-    <tr>
-      <td>15:20</td>
-      <td>14:20</td>
-      <td>8:20</td>
-      <td>6:20</td>
-      <td>Break</td>
-      <td>-</td>
-      <td> </td>
-    </tr>
-    <tr>
-      <td>16:45</td>
-      <td>15:45</td>
-      <td>9:45</td>
-      <td>7:45</td>
-      <td>Paper <br />(30 min each)</td>
-      <td>TBD</td>
-      <td>(1) Towards Demystifying Adversarial Robustness of Binarized Neural Networks <br /><br />(2) Kryptonite: An Adversarial Attack using Regional Focus</td>
-    </tr>
-    <tr>
-      <td>18:00</td>
-      <td>17:00</td>
-      <td>11:00</td>
-      <td>9:00</td>
-      <td>Closing</td>
-      <td>Sudipta</td>
-      <td> </td>
     </tr>
   </tbody>
 </table>
 
-<p><span style="color:red">* Time in US is on June 24</span>.</p>
-
-
-                
-                    <hr />
-                    <p style="text-align: center; margin-bottom: 10px">
-                    <a href="http://sulab-sever.u-aizu.ac.jp/ACNS2021/a" style="color: black"><small>SiMLA 2021 (Co-located with ACNS2021)</small></a>
-                    </p>
-                
-            </div>
-    </div>
-    
-</body>
-<footer>
-</footer>
+:ET
