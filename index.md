@@ -97,13 +97,13 @@ Time Table |
 Japan (UTC+9) | Singapore <br> (UTC +8) |  CEST (UTC+2) |  UTC | **Agenda** | **Chair** | **Details**
 15:20 | 14:20 | 8:20 | 6:20 | Opening | Sudipta |
 15:30 | 14:30 | 8:30 | 6:30 |  Invited Talk |   Sudipta | Speaker Name:<br>[**Dr. Mike Papadakis**](https://sites.google.com/site/mikepapadakis/)<br><br> Affiliation:<br>SnT, University of Luxembourg <br><br> Title:<br>Adversarial Attacks in ML-Enabled Systems
-15:20 | 14:20 | 8:20 | 6:20 | Break | -
+16:30 | 15:30 | 9:30 | 7:30 | Break | -
 16:45 | 15:45 | 9:45 | 7:45 |  Paper <br>(30 min each) |  TBD | (1) Towards Demystifying Adversarial Robustness of Binarized Neural Networks <br><br>(2) Kryptonite: An Adversarial Attack using Regional Focus 
 18:00 | 17:00 | 11:00 | 9:00 | Closing  | Sudipta
 
-<span style="color:red">* Time in US is on June 24</span>.
-
-[Download Program](https://drive.google.com/file/d/1JVc_6l9B0CU6ecHmflreKw2RIe89qxmv/view?usp=sharing)
+<!-- <span style="color:red">* Time in US is on June 24</span>.
+ -->
+[Download Program](https://drive.google.com/file/d/1iEExWM9IRjXwG6nou0hp9MwyF03IKwu7/view?usp=sharing)
 
 
 
